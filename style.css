@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(red, #78c478, #8282bf);
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotron {
+    padding: 1rem 2rem;
+
+}
